@@ -46,7 +46,7 @@ You can download or generate this dataset by referring to the links mentioned in
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Make sure you have the following dependencies installed:
    ```bash

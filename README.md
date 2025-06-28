@@ -1,4 +1,4 @@
-# Virtual-Mouse-Using-Hand-Gestures
+# Virtual Mouse Using Hand Gestures
 
 This project implements a **virtual mouse system** controlled through hand gestures detected by a webcam. It combines computer vision (via MediaPipe), deep learning (a CNN model), and automation tools to simulate mouse actions such as movement and clicks — all without touching a physical mouse.
 
